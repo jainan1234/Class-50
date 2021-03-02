@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+.jainan {
+    border: solid;
+    display:flex;
+    justify-content:space-between
+}
+.wafi{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
+.child{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
